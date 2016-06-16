@@ -1,0 +1,38 @@
+body {
+	font-family: Helvetica;
+}
+
+header {
+	text-align: center;
+}
+
+
+section {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+nav {
+	display: flex;
+	flex-direction: column;
+}
+
+article {
+	display: flex;
+	flex-direction: column;
+}
+
+aside {
+	display: flex;
+	flex-direction: column;
+}
+
+footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+li {
+	
+}
